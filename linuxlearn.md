@@ -1,6 +1,12 @@
-# linux 命令  
+# Linux manjaro KDE发行版学习
 
+# 安装与配置
 
+## 制作启动盘
+
+### 工具
+> + Rufus:前往*[Rufus官网](https://rufus.ie/zh/)*下载
+> + 镜像：前往：https://manjaro.org.cn/下载
 ## 1、内建命令  
 
 

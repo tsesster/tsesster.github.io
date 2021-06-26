@@ -6,7 +6,7 @@
 
 ## Linux manjaro KDE 发行版的学习
  
-### 1.安装与基础配置
+### 1.[安装与基础配置](https://github.com/tsesster/tsesster.github.io/blob/main/linuxlearn.md#%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE)
 
 ## Markdown基础与进阶
 ## C语言程序设计

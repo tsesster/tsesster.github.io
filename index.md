@@ -4,7 +4,7 @@
 # 目录
 ------
 
-## Linux manjaro KDE 发行版的学习
+## [Linux manjaro KDE 发行版的学习](https://github.com/tsesster/tsesster.github.io/blob/main/linuxlearn.md#linux-manjaro-kde%E5%8F%91%E8%A1%8C%E7%89%88%E5%AD%A6%E4%B9%A0)
  
 ### 1.[安装与基础配置](https://github.com/tsesster/tsesster.github.io/blob/main/linuxlearn.md#%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE)
 

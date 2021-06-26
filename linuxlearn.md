@@ -22,7 +22,9 @@
 > > |/|20GB|ext4||
 > > |swap|8GB|linuxswap||
 > > |/home|180GB|ext4||
+> > 
 > > 无/boot/efi 挂载点时
+> > 
 > > | 挂载点 |  大小 | 格式 | 标记  |
 > > |:----: |:----:|:----:|:----:|
 > > |/boot|2GB|fat32|esp；boot|

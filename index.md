@@ -12,7 +12,7 @@
 
 ## [C语言程序设计]()
 
-## [python基础学习]()
+## [python基础学习](https://github.com/tsesster/tsesster.github.io/blob/main/python.md)
 
 ## [数据结构 C语言版]()
 

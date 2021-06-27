@@ -1,13 +1,24 @@
 # 序言
-本人是一个初入计算机的小白，虽然感觉什么都不懂，哪个方面对于自己来说都感觉像天坑一样，但我对计算机的热爱却促使我不断学习，以下是我搜索并结合自己感觉应该学习的东西，希望自己每天都能坚持，望高人能给一些建议。
+------
+创建这篇文章之初，我感觉自己的笔记管理系统总是会出现文件管理方面总是会出现大大小小的问题。特别是笔记方面，总是会花费一些时间去记录一些重复的东西，而且还得不到及时的更正，为了解决这个问题，我尝试着写了这篇属于我的笔记版博客。我的一些心得和记录也会通过这篇博客记录下来，希望能给到部分同我一样的计算机爱好者一些帮助，同时也欢迎各位大佬对我浅显的见解加以指正。
+# 目录
+------
 
-# 技能点ing
-----------
-## Markdown学习
-## Git命令及仓库托管
-## C语言程序设计
-## linux基础及进阶
+## [Linux manjaro KDE 发行版的学习](https://github.com/tsesster/tsesster.github.io/blob/main/linuxlearn.md#linux-manjaro-kde%E5%8F%91%E8%A1%8C%E7%89%88%E5%AD%A6%E4%B9%A0)
+ 
+## [Markdown基础与进阶](https://github.com/tsesster/tsesster.github.io/blob/main/markdown.md)
 
-# 技能点已完成
-------------
+## [C语言程序设计](https://github.com/tsesster/stu_1#c%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E4%BB%93%E5%BA%93)
+
+## [python基础学习](https://github.com/tsesster/tsesster.github.io/blob/main/python.md)
+
+## [数据结构 C语言版]()
+
+## [考研复习]()
+
+## [计算机网络]()
+
+## [数据库](https://github.com/tsesster/tsesster.github.io/blob/main/database.md)
+
+**联系方式**：tsesster@gmail.com 
 

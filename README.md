@@ -4,21 +4,25 @@
 # 目录
 ------
 
-## [Linux manjaro KDE 发行版的学习](https://github.com/tsesster/tsesster.github.io/blob/main/linuxlearn.md#linux-manjaro-kde%E5%8F%91%E8%A1%8C%E7%89%88%E5%AD%A6%E4%B9%A0)
+> ## [Linux学习](https://github.com/tsesster/stu_1/blob/master/notes/Linux/README.md)
  
-## [Markdown基础与进阶](https://github.com/tsesster/tsesster.github.io/blob/main/markdown.md)
+> ## [Markdown基础与进阶](https://github.com/tsesster/stu_1/blob/master/notes/Makrdown/README.md)
 
-## [C语言程序设计](https://github.com/tsesster/stu_1#c%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E4%BB%93%E5%BA%93)
+> ## [C语言程序设计](https://github.com/tsesster/stu_1/blob/master/notes/C_lan_pro/README.MD)
 
-## [python基础学习](https://github.com/tsesster/tsesster.github.io/blob/main/python.md)
+> ## [python基础学习](https://github.com/tsesster/stu_1/blob/master/notes/Python/README.md)
 
-## [数据结构 C语言版]()
+> ## [数据结构](https://github.com/tsesster/stu_1/blob/master/notes/Data_Structure/README.md)
 
-## [考研复习]()
+> ## [考研复习](https://github.com/tsesster/stu_1/blob/master/notes/Master_exam/README.md)
 
-## [计算机网络]()
+> ## [计算机网络](https://github.com/tsesster/stu_1/blob/master/notes/Computer_Network/README.md)
 
-## [数据库](https://github.com/tsesster/tsesster.github.io/blob/main/database.md)
+> ## [数据库](https://github.com/tsesster/stu_1/blob/master/notes/Database/README.md)
+
+> ## [Git学习](https://github.com/tsesster/stu_1/blob/master/notes/Git/README.md)
+
+> ## [UML学习](https://github.com/tsesster/stu_1/blob/master/notes/UML/README.md)
 
 **联系方式**：tsesster@gmail.com 
 

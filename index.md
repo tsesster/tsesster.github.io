@@ -10,7 +10,7 @@
 
 ## [Markdown基础与进阶](https://github.com/tsesster/tsesster.github.io/blob/main/markdown.md)
 
-## [C语言程序设计]()
+## [C语言程序设计](https://github.com/tsesster/stu_1#c%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E4%BB%93%E5%BA%93)
 
 ## [python基础学习](https://github.com/tsesster/tsesster.github.io/blob/main/python.md)
 
